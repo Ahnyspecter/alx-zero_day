@@ -1,2 +1,1 @@
-my second readme
-git pull origin
+my second readmen
